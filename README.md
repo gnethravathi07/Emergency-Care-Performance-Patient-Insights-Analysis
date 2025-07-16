@@ -69,18 +69,23 @@ Final slide with business conclusions & action points
 ### 📈 Recommendations
 
 **Improve Peak-Time Staffing**
+
 ➤ Add more staff during peak evening and weekend hours to reduce wait times.
 
 **Optimize Referral Departments**
+
 ➤ Increase capacity/resources in departments with high referral loads (e.g., Cardiology).
 
 **Monitor Satisfaction Dips**
+
 ➤ Link drops in satisfaction to specific time slots or staff shifts and investigate root causes.
 
 **Speed Up First Response Time**
+
 ➤ Implement triage automation or fast-track lanes to boost the % of patients seen within 30 minutes.
 
 **Use Demographics for Targeted Planning**
+
 ➤ Align campaigns, communication, or services toward majority visiting groups (like 20–40 age segment).
 
 ## ✅ Conclusion
