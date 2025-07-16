@@ -17,7 +17,7 @@ This project presents a real-time, multi-layered dashboard for visualizing and a
 
   ## 📚 Data Columns Explained
 
-  | Column                                          | Description                            |
+| Column                                          | Description                            |
 | ----------------------------------------------- | -------------------------------------- |
 | `patient_id`                                    | Unique identifier per patient          |
 | `patient_admission_date`                        | Timestamp of ER visit                  |
