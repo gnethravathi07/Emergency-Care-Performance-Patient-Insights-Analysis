@@ -28,7 +28,7 @@ This project presents a real-time, multi-layered dashboard for visualizing and a
 | `patient_waittime`                              | Minutes waited before first response   |
 
 
-  🧾 SQL Analysis Performed
+## 🧾 SQL Analysis Performed
 
 | Query                             | Purpose                           |
 | --------------------------------- | --------------------------------- |
