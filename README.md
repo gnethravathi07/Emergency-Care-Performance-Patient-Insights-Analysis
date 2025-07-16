@@ -2,7 +2,7 @@
 
 A comprehensive data-driven project designed to analyze Emergency Room (ER) performance, patient behavior, and service efficiency in a hospital setting. This dashboard enables healthcare stakeholders to make informed decisions for better patient care and operational management.
 
-✅ Project Overview
+## ✅ Project Overview
 This project presents a real-time, multi-layered dashboard for visualizing and analyzing key metrics related to hospital emergency services, including:
 
 * Patient Volume and Demographics
@@ -11,11 +11,11 @@ This project presents a real-time, multi-layered dashboard for visualizing and a
 * Department Referrals
 * Patient Satisfaction
 
-  🛠️ Tools & Technologies
-* SQL – Data cleaning, aggregation, KPI calculation
+  ## 🛠️ Tools & Technologies
+* SQL –  aggregation, KPI calculation
 * Power BI – Interactive dashboards, DAX measures, drillthroughs
 
-  📚 Data Columns Explained
+  ## 📚 Data Columns Explained
 
   | Column                                          | Description                            |
 | ----------------------------------------------- | -------------------------------------- |
@@ -29,8 +29,6 @@ This project presents a real-time, multi-layered dashboard for visualizing and a
 
 
   🧾 SQL Analysis Performed
-  
-The Hospital_ER_SQL.sql file includes core queries such as:
 
 | Query                             | Purpose                           |
 | --------------------------------- | --------------------------------- |
@@ -42,31 +40,29 @@ The Hospital_ER_SQL.sql file includes core queries such as:
 | `TIME-based groupings`            | By hour, by weekday               |
 | `Age buckets`                     | For 0–10, 11–20, etc.             |
 
-📂 Dashboards Included in Power BI
-📆 Monthly View
+## 📂 Dashboards Included in Power BI
+### 📆 Monthly View
 KPIs by month (volume, age, wait time, referral, etc.)
 <img width="1079" height="706" alt="image" src="https://github.com/user-attachments/assets/4c65eabd-c451-4bc1-b72f-466202d44169" />
 
-📊 Consolidated View
-
+### 📊 Consolidated View
 Overall summary across date ranges for trends
 <img width="1187" height="735" alt="image" src="https://github.com/user-attachments/assets/86f54151-4bc2-4ee6-8a13-53caa3450d6e" />
 
-👥 Patient Details View
+### 👥 Patient Details View
 
 Drill-through patient-level grid (ID, gender, referral, etc.)
 
-💡 Summary Insights
+### 💡 Summary Insights
 
 Final slide with business conclusions & action points
 
-📌 Key Insights
+## 📌 Key Insights
 
 * **High Traffic Times**: Most ER visits occur during evening hours (5 PM – 9 PM) and weekends.
 
 * **Age Group Trend**: The 21–30 and 31–40 age groups account for the largest share of ER visits.
 * **Gender Pattern**: Slightly more females visited than males during the reporting period.
-* **Admission Rate**: About X% of patients were officially admitted (as per current data).
 * **Referral Hotspots**: Departments like Orthopedics and Cardiology receive the most ER referrals.
 * **Service Delays**: Days with high patient volume correlated with lower satisfaction scores and longer wait times.
 
@@ -89,7 +85,7 @@ Final slide with business conclusions & action points
 ✅ Conclusion
 The Hospital Emergency Room Analysis provided a comprehensive overview of ER operations, patient demographics, and service efficiency. By integrating structured SQL analysis with dynamic Power BI dashboards, we were able to extract meaningful insights and patterns from historical ER visit data.
 
-Key takeaways from the analysis include:
+#### Key takeaways from the analysis include:
 
 🔍 High patient volumes were observed during evening hours and weekends, indicating the need for dynamic resource allocation based on time patterns.
 
@@ -105,11 +101,11 @@ Key takeaways from the analysis include:
 
 This analysis empowers hospital administrators to:
 
-Make data-informed staffing decisions.
+* Make data-informed staffing decisions.
 
-Implement triage improvements.
+* Implement triage improvements.
 
-Track service quality in real time.
+* Track service quality in real time.
 
 Allocate resources based on departmental load and patient demographics.
 
