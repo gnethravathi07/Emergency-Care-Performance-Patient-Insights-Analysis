@@ -66,7 +66,8 @@ Final slide with business conclusions & action points
 * **Referral Hotspots**: Departments like Orthopedics and Cardiology receive the most ER referrals.
 * **Service Delays**: Days with high patient volume correlated with lower satisfaction scores and longer wait times.
 
-📈 Recommendations
+### 📈 Recommendations
+
 **Improve Peak-Time Staffing**
 ➤ Add more staff during peak evening and weekend hours to reduce wait times.
 
@@ -82,24 +83,24 @@ Final slide with business conclusions & action points
 **Use Demographics for Targeted Planning**
 ➤ Align campaigns, communication, or services toward majority visiting groups (like 20–40 age segment).
 
-✅ Conclusion
+## ✅ Conclusion
 The Hospital Emergency Room Analysis provided a comprehensive overview of ER operations, patient demographics, and service efficiency. By integrating structured SQL analysis with dynamic Power BI dashboards, we were able to extract meaningful insights and patterns from historical ER visit data.
 
 #### Key takeaways from the analysis include:
 
-🔍 High patient volumes were observed during evening hours and weekends, indicating the need for dynamic resource allocation based on time patterns.
+* 🔍 High patient volumes were observed during evening hours and weekends, indicating the need for dynamic resource allocation based on time patterns.
 
-⌛ Average wait times fluctuated significantly across days, often aligning with lower patient satisfaction scores.
+* ⌛ Average wait times fluctuated significantly across days, often aligning with lower patient satisfaction scores.
 
-🏥 A significant portion of patients were not admitted, emphasizing the ER’s role in primary triage and outpatient handling.
+* 🏥 A significant portion of patients were not admitted, emphasizing the ER’s role in primary triage and outpatient handling.
 
-📈 Departments like Cardiology and Orthopedics received the highest number of referrals, suggesting potential bottlenecks or staffing needs in those areas.
+* 📈 Departments like Cardiology and Orthopedics received the highest number of referrals, suggesting potential bottlenecks or staffing needs in those areas.
 
-👵 The 21–40 age group accounted for the largest share of visits, pointing to health awareness needs in younger populations.
+* 👵 The 21–40 age group accounted for the largest share of visits, pointing to health awareness needs in younger populations.
 
-🧍‍♂️ Gender and race distribution revealed no major disparity, but provide useful context for inclusive healthcare planning.
+* 🧍‍♂️ Gender and race distribution revealed no major disparity, but provide useful context for inclusive healthcare planning.
 
-This analysis empowers hospital administrators to:
+##### This analysis empowers hospital administrators to:
 
 * Make data-informed staffing decisions.
 
